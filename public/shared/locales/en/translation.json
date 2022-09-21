@@ -1,0 +1,83 @@
+{
+    "footer":
+        {
+        "Products": "Products",
+        "Features": "Features",
+        "Pricing": "Pricing",
+        "Twitter": "Twitter",
+        "Facebook":"Facebook",
+        "Contact Us":"Contact Us",
+        "Privacy":"Privacy",
+        "Terms":"Terms",
+        "Social":"Social",
+        "Legal":"Legal",
+        "footer_text":"Created by awesome people",
+        "at":"at",
+        "Oozou":"Oozou"
+    },
+    "jumbotron": {
+        "title": "Beautiful Wikis for Teams",
+        "main_text": "Wikis don’t have to be ugly, complex and hard to manage. Welcome to the future of the Wiki.",
+        "btn_text": "GET STARTED - FREE FOREEVER!"
+    },
+    "header": {
+        "features": "Features",
+        "SignUp": "Sign Up",
+        "SignIn": "Sign In"
+    },
+    "benefits": {
+        "main_title": "How can SlimWiki help your team?",
+        "main_text": "Simple, versatile and powerful features and incredibly low friction content creation mean that your team spend their time focussing on your business.",
+        "first_title": "BEAUTIFUL LAYOUT & TYPOGRAPHY",
+        "first_text": "We have thought carefully about design so you don’t have to. You need only focus on your content, we make it look amazing",
+        "second_title": "FILES & MEDIA",
+        "second_text": "Simple drag/drop placement and layout of images and files helps you produce rich, useful content easily",
+        "third_title": "PAGE HISTORY",
+        "third_text": "Every change made is stored so it is easy to compare pages, quickly see who made which changes and revert changes",
+        "fourth_title": "PRIVATE & SECURE",
+        "fourth_text": "Your data is secure, backed up and exportable at all times.",
+        "fifth_title": "PAGE VISIBILITY & TEAMS",
+        "fifth_text": "Content can be visible to your whole company, restricted to a specific Team of people or visible only to the content creator",
+        "sixth_title": "FAST & EFFICIENT",
+        "sixth_text": "Careful optimization of the user experience and fast performance means a low barrier for content creation and editing",
+        "seventh_title": "MOBILE & DESKTOP",
+        "seventh_text": "SlimWiki looks stunning on desktop, tablet or phone. Our fully responsive design adjusts perfectly to fit all your devices",
+        "eighth_title": "PROFESSIONALLY DESIGNED TEMPLATES",
+        "eighth_text": "Coming soon - Choose a layout that matches the culture and style of your team"
+    },
+    "register": {
+        "main_title": "Get Started for Free!",
+        "main_text": "Sign up and create your wiki instantly using...",
+        "facebook": "FACEBOOK",
+        "github": "GITHUB",
+        "google": "GOOGLE",
+        "or": "OR",
+        "company_name": "Company Name",
+        "your_name": "Your Name",
+        "email_address": "Email Address",
+        "password": "Choose Password",
+        "btn_text": "GET STARTED-FREE FOREVER",
+        "footer_text": "By clicking 'Get Started - Free Forever!' I agree to SlimWiki's Terms of Service and Privacy Policy."
+    }
+    ,
+    "loginPage":
+    
+        {
+        "facebook":"Login with facebook",
+        "github":"sign in with github",
+        "google":"sign in with google",
+        "OR":"OR",
+        "Email":"Email",
+        "password":"Password",
+        "Remember_me":"Remember me",
+        "forgot_psw":"Forgot a password?",
+        "SIGN_IN":"SIGN IN"
+    }
+    ,
+    "forgotpassword":
+
+    {
+        "FORGOT_PASSWORD":"FORGOT PASSWORD?",
+        "RESET_PASSWORD":"RESET PASSWORD"
+    }
+}
